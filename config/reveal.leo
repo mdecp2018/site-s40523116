@@ -127,7 +127,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 40723101網際簡報
+<t tx="leo.20180827201621.10">## 40523116網際簡報
 
 ### 虎科大機械設計工程系
 
@@ -338,7 +338,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109105325.2">## 40723101網際簡報
+<t tx="leo.20181109105325.2">## 40523116網際簡報
 
 ### 虎科大機械設計工程系
 
@@ -346,9 +346,9 @@ make.start()
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[*網站](https://mdecp2018.github.io/site-s40723101)
+[*網站](https://mdecp2018.github.io/site-s40523116)
 
-[*網誌](http://mdecp2018.github.io/site-s40723101/blog)
+[*網誌](http://mdecp2018.github.io/site-s40523116/blog)
 </t>
 </tnodes>
 </leo_file>

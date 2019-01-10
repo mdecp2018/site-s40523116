@@ -10,8 +10,8 @@ http://mdecourse.github.io/2018fall/
 cpgx 網站: https://cpgx.kmol.info
 
 2018fall
-課程分組網站：https://mdecp2018.github.io/site-s40523118/content/index.html
+課程分組網站：https://mdecp2018.github.io/site-s40523116/content/index.html
 
-課程簡報：https://mdecp2018.github.io/site-s40523118/reveal/index.html#/
+課程簡報：https://mdecp2018.github.io/site-s40523116/reveal/index.html#/
 
-課程部落格：https://mdecp2018.github.io/site-s40523118/blog/index.html
+課程部落格：https://mdecp2018.github.io/site-s40523116/blog/index.html

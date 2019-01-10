@@ -1,10 +1,10 @@
 # 個人網址連接
 
-網址：http://mdecp2018.github.io/site-s40723101
+網址：http://mdecp2018.github.io/site-s40523116
 
-投影：http://mdecp2018.github.io/site-s40723101/reveal
+投影：http://mdecp2018.github.io/site-s40523116/reveal
 
-網誌：http://mdecp2018.github.io/site-s40723101/blog
+網誌：http://mdecp2018.github.io/site-s40523116/blog
 
 # 2018fall
 2018 Fall 計算機程式與電腦輔助設計實習課程分組倉儲
